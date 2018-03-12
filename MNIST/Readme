@@ -1,0 +1,15 @@
+使用TensorFlow搭建的数字识别系统，用MNIST手写数字集作为训练集
+
+网络结构较为简单清晰，是官方的重要入门教程，MNIST数据采用官方推荐的方式从代码中直接下载并读取，存放在MNIST_data文件夹中
+
+文件说明:
+model.py:定义网络结构
+input_data.py:下载及读取MNIST数据
+train.py:训练模型
+mnist.py:数字识别主程序
+MNIST_data:存放MNIST手写数字集的二进制文件
+1.png-9.png:测试图片
+checkpoint:模型文件，记录模型存储位置
+mnist_cnn_model.ckpt.index:模型文件
+mnist_cnn_model.ckpt.meta:模型文件
+mnist_cnn_model.ckpt.data-00000-of-00001:模型文件，
