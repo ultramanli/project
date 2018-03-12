@@ -12,4 +12,9 @@ MNIST_data:存放MNIST手写数字集的二进制文件
 checkpoint:模型文件，记录模型存储位置
 mnist_cnn_model.ckpt.index:模型文件
 mnist_cnn_model.ckpt.meta:模型文件
-mnist_cnn_model.ckpt.data-00000-of-00001:模型文件，
+mnist_cnn_model.ckpt.data-00000-of-00001:模型文件
+
+使用时在命令行中运行mnist.py，后跟测试图片名即可
+eg: python3 mnist.py 5.png
+
+注意:需要安装TensorFlow 1.2.1 版本
