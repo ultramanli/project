@@ -1,0 +1,6 @@
+﻿  Ripple.vcxproj -> E:\Project\CUDA\Ripple\Debug\Ripple.exe
+  Ripple.vcxproj -> E:\Project\CUDA\Ripple\Debug\Ripple.pdb (Full PDB)
+  copy "D:\CUDA_files\Development\bin\cudart*.dll" "E:\Project\CUDA\Ripple\Debug\"
+  D:\CUDA_files\Development\bin\cudart32_80.dll
+  D:\CUDA_files\Development\bin\cudart64_80.dll
+  已复制         2 个文件。
