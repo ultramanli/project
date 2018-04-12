@@ -1,0 +1,6 @@
+﻿  Bitmap_(BasedOnShareMemory).vcxproj -> E:\Project\CUDA\Bitmap_(BasedOnShareMemory)\Debug\Bitmap_(BasedOnShareMemory).exe
+  Bitmap_(BasedOnShareMemory).vcxproj -> E:\Project\CUDA\Bitmap_(BasedOnShareMemory)\Debug\Bitmap_(BasedOnShareMemory).pdb (Full PDB)
+  copy "D:\CUDA_files\Development\bin\cudart*.dll" "E:\Project\CUDA\Bitmap_(BasedOnShareMemory)\Debug\"
+  D:\CUDA_files\Development\bin\cudart32_80.dll
+  D:\CUDA_files\Development\bin\cudart64_80.dll
+  已复制         2 个文件。
