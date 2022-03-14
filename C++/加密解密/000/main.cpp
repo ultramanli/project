@@ -7,6 +7,6 @@ int main()
  c3=c3+4;
  c4=c4+4;
  c5=c5+4;
- cout<<c1<<c2<<c3<<c4<<c5;
+ cout<<c1<<c2<<c3<<c4<<c5<<endl;
  return (0);
 }
